@@ -111,7 +111,7 @@ The project utilises a comprehensive WHO health dataset containing **2,866 recor
 ### 3. Machine Learning Models
 - **Linear Regression**: Primary model with Lasso-based feature selection
 - **Lasso Regression**: Used for feature selection only (not final model)
-- **Feature Selection**: Lasso identified 15 important features, then standard linear regression built on selected features
+
 
 ### 4. Model Evaluation
 - **Performance Metrics**: R², Mean Absolute Error, Root Mean Square Error
